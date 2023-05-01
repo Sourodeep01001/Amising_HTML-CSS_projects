@@ -1,0 +1,1 @@
+In this main_HTML-CSS_projects folder I will uploded all html, css related small projects, like image slider, clock project etc
